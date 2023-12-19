@@ -21,13 +21,13 @@ Welcome to the Deep Learning Milestone Project repository! This project showcase
 ### 3. Food Vision 101 - Multiclass Classification
 
 - **Description:** Food Vision 101 tackles a multiclass classification problem, identifying food items among 101 classes using computer vision and neural networks.
-- **Notebook:FoodVision
+- **Notebook:**FoodVision
 - **Instructions:** Explore how neural networks are employed for image classification in the domain of food.
 
 ## Practice Notebook
 
 - **Description:** The Practice notebook is designed to help you sharpen your deep learning skills.
-- 
+
 - **Instructions:** Engage with exercises and challenges to enhance your understanding of deep learning concepts.
 
 
