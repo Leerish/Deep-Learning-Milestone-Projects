@@ -9,7 +9,7 @@ Welcome to the Deep Learning Milestone Project repository! This project showcase
 ### 1. SkimLit - NLP for Medical Articles
 
 - **Description:** SkimLit is a natural language processing (NLP) project designed to rearrange medical articles, making research work more accessible.
-- **Notebook:**SkimLit_NLP
+- **Notebook:** SkimLit_NLP
 - **Instructions:** Explore the notebook to understand how NLP techniques are applied to medical literature.
 
 ### 2. Bitpredict - Bitcoin Price Prediction
@@ -21,7 +21,7 @@ Welcome to the Deep Learning Milestone Project repository! This project showcase
 ### 3. Food Vision 101 - Multiclass Classification
 
 - **Description:** Food Vision 101 tackles a multiclass classification problem, identifying food items among 101 classes using computer vision and neural networks.
-- **Notebook:**FoodVision
+- **Notebook:** FoodVision
 - **Instructions:** Explore how neural networks are employed for image classification in the domain of food.
 
 ## Practice Notebook
