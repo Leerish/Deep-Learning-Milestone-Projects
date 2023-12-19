@@ -1,6 +1,6 @@
 # Deep-Learning-Milestone-Projects
 
-# Deep Learning Milestone Project
+
 
 Welcome to the Deep Learning Milestone Project repository! This project showcases three main deep learning projects along with a practice notebook.
 
@@ -27,7 +27,7 @@ Welcome to the Deep Learning Milestone Project repository! This project showcase
 ## Practice Notebook
 
 - **Description:** The Practice notebook is designed to help you sharpen your deep learning skills.
-- **Notebook:** [Practice_Notebook.ipynb](link_to_practice_notebook)
+- 
 - **Instructions:** Engage with exercises and challenges to enhance your understanding of deep learning concepts.
 
 
