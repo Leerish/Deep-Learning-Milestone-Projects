@@ -26,9 +26,9 @@ Welcome to the Deep Learning Milestone Project repository! This project showcase
 
 ## Practice Notebook
 
-- **Description:** The Practice notebook is designed to help you sharpen your deep learning skills.
+- **Description:** Contains Fundamental concepts of Timeseries data modelling
 
-- **Instructions:** Engage with exercises and challenges to enhance your understanding of deep learning concepts.
+- **Instructions:** Use it for revising concepts 
 
 
 **Note:** If you plan to use or reproduce any part of the code, make sure to adhere to the project's respective licenses and provide appropriate attribution.
